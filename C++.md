@@ -50,7 +50,7 @@ move和forward在运行期不会生成可执行代码
 
 函数形参皆为左值
 
-![preview](C++.assets\v2-496422d37709e10155089f5f978f2782_r.jpg)
+![preview](.assets\v2-496422d37709e10155089f5f978f2782_r.jpg)
 
 类型是右值引用 但是是左值 
 
@@ -88,31 +88,31 @@ delete：先調用dtor, 再釋放memory
 
 Composition 复合关系 has-a queue has a deque
 
-![image-20201204160630490](C++.assets\image-20201204160630490.png)
+![image-20201204160630490](.assets\image-20201204160630490.png)
 
 Delegation 委托关系 pImpl
 
-![image-20201204160702036](C++.assets\image-20201204160702036.png)
+![image-20201204160702036](.assets\image-20201204160702036.png)
 
 Inheritance 继承关系 is-a
 
-![image-20201204160745675](C++.assets\image-20201204160745675.png)
+![image-20201204160745675](.assets\image-20201204160745675.png)
 
-![image-20201204160755250](C++.assets\image-20201204160755250.png)
+![image-20201204160755250](.assets\image-20201204160755250.png)
 
-![image-20201207155043864](C++.assets\image-20201207155043864.png)
+![image-20201207155043864](.assets\image-20201207155043864.png)
 
 只要类中有虚函数，对象中会多一个虚函数指针（vptr）（内存+4）
 
 子类继承函数，继承的是父类函数的调用权不是内存大小
 
-![image-20201207160135976](C++.assets\image-20201207160135976.png)
+![image-20201207160135976](.assets\image-20201207160135976.png)
 
 静态绑定 CALL xxx 汇编语言
 
 动态绑定 指针调用 向上转型（父类指向子类） 调用虚函数
 
-![image-20201207164159541](C++.assets\image-20201207164159541.png)
+![image-20201207164159541](.assets\image-20201207164159541.png)
 
 重载了函数调用操作符（即，operator()）的任何类叫做仿函数类。从这样的类建立的对象称为函数对象或仿函
 数
@@ -123,7 +123,7 @@ new expression表达式是不能重载的，new调用的函数是可以重载的
 2. 智能指针
 3. 转换
 
-![image-20201208112405322](C++.assets\image-20201208112405322.png)
+![image-20201208112405322](.assets\image-20201208112405322.png)
 
 拷贝构造函数和拷贝赋值函数无法重载
 
@@ -178,7 +178,7 @@ override 要求函数签名完全相同
 
 ## 设计模式GOF
 
-![image-20201217171223102](C++.assets\image-20201217171223102.png)
+![image-20201217171223102](.assets\image-20201217171223102.png)
 
 
 
