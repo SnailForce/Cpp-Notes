@@ -2,6 +2,70 @@
 
 # C++
 
+
+
+## list
+
+- [ ] 虚函数及多态
+- [x] NULL and nullptr
+- [x] C++内存四区
+- [ ] GDB调试多线程
+- [ ] STL容器比较和选择
+- [x] allocator
+- [x] const
+- [x] cout
+- [x] explicit
+- [x] extern
+- [ ] gcc-make
+- [x] lambda、bind、function
+- [x] 异常处理
+- [x] namespace
+- [x] assert
+- [x] inline
+- [ ] enum、union
+- [x] sizeof() strlen()
+- [ ] 虚函数表
+- [ ] alloc、malloc、calloc、realloc
+- [ ] 引用和指针
+- [ ] vector的shrink_to_fit()、size()、capacity()
+- [ ] 继承及继承访问控制
+- [ ] decltype(exp)\auto()
+- [ ] 重写、隐藏、override、final
+- [ ] shared_ptr
+- [ ] move、forward、万能引用
+- [ ] new Point及new Point()
+- [ ] new、operator new 、delete、operator delete
+- [ ] reverse_iterator的base()
+- [ ] size_t和size_type
+- [ ] sizeof vs strlen
+- [ ] static
+- [ ] strcpy、memcpy、memmove
+- [ ] throw
+- [ ] typename... args
+- [ ] typename
+- [ ] volatile
+- [ ] 析构函数
+- [ ] 原码、反码、补码
+- [ ] 友元函数、友元类
+- [ ] 友元及访问控制符
+- [ ] static|const|dynamic|reinterpret_cast
+- [ ] 回调函数
+- [ ] 字符串和数字相互转换
+- [ ] 拷贝构造函数、复制函数
+- [ ] 数组、new、malloc的区别及联系
+- [ ] 数组指针、指针数组
+- [ ] 智能指针
+- [ ] 深拷贝、浅拷贝、移动语义右值引用
+- [ ] const、constexpr
+- [ ] 移动语义中的移动构造函数和移动赋值函数、左右值引用
+- [ ] 结构体内存对齐
+- [ ] 菱形继承和虚继承
+- [ ] 重载-> + [] ()运算符
+- [ ] 静态类型 动态类型
+- [ ] C++函数声明和定义时的默认参数
+
+
+
 ## 基础
 
 函数签名包含形参类别和函数名字，返回值类别和形参名字不属于签名的组成部分，const是函数签名的一部分
